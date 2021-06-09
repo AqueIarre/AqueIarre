@@ -7,6 +7,6 @@ I started my coding adventure almost a year ago, so don't expect any good code t
  I'd say I "know" how to program on C++ and C, but my main language is JavaScript (p5.js specifically). 
 
 I'm currently focused on exploring genetic algorithms, but I'm also interested in mixing AI and literature.
-What else... I can communicate fluently in both spanish and english, and I can defend myself in french. Hope you have a great day, feel free to DM me.
+What else... I can communicate fluently in both spanish and english, and I can defend myself in french. Hope you have a great day and feel free to DM me.
 
 Peace 😊
